@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "71397763634",
+    "firebase_url": "https://mobilepillbox.firebaseio.com",
+    "project_id": "mobilepillbox",
+    "storage_bucket": "mobilepillbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71397763634:android:45de53986933cb2b",
+        "android_client_info": {
+          "package_name": "e.jannatulfardaus.mobilepillbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71397763634-g0a2270m88m5icim891s1o6flc0i0fkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.jannatulfardaus.mobilepillbox",
+            "certificate_hash": "9b3bef9532af5595925cfdc82ea8c9edaddaf154"
+          }
+        },
+        {
+          "client_id": "71397763634-q4j4dsfsujik2tbiagmc998eaktm6epj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi8M35Sbnl7AnVdxw1mBHHpQMPIBEc_Wo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71397763634-q4j4dsfsujik2tbiagmc998eaktm6epj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
